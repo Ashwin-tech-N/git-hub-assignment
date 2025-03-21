@@ -1,0 +1,39 @@
+Alright! Here's a simple yet meaningful assignment if you're aiming to become a **full stack developer**:
+
+---
+
+### 🌐 **Full Stack Developer Mini Project Assignment**
+
+**Title:** *Build a Personal Portfolio Website*
+
+**Objective:**  
+Create a simple portfolio website to showcase your profile, skills, and projects.
+
+---
+
+### ✅ **Requirements:**
+
+#### 1. **Frontend (HTML/CSS/JavaScript)**
+- Home section with your name and a short intro
+- About section with your background and goals
+- Skills section (display using icons or progress bars)
+- Projects section (list at least 2 sample projects)
+- Contact form (doesn't need to be functional)
+
+#### 2. **Backend (Optional for Bonus)**
+- Use Node.js with Express to handle a simple contact form submission (save data to a file or show on console)
+- Deploy using [Render](https://render.com), [Vercel](https://vercel.com), or [Netlify](https://www.netlify.com)
+
+#### 3. **Bonus**
+- Make it responsive (mobile-friendly)
+- Add some basic animations (e.g., using CSS or a library like AOS)
+- Include a downloadable resume link
+
+---
+
+### 📅 **Deadline:**  
+Try to complete it in 3–5 days.
+
+---
+
+Let me know if you want it tailored to a specific tech stack (like React, Next.js, etc.) or if you want another type of assignment (like problem-solving or backend API creation).
